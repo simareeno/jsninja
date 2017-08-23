@@ -1,0 +1,16 @@
+.build/
+.idea/
+.publish/
+
+node_modules/
+npm-debug.log
+yarn-error.log
+
+.gemini-react-tmp/
+.gemini.tmp.*/
+arui-demo/styleguide*
+coverage/
+gemini-coverage/
+gemini-report/
+test-results.xml
+tools/modernizr.js
